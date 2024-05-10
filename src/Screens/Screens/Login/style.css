@@ -1,0 +1,119 @@
+.ant-form-item .ant-form-item-label {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.ant-form-item .ant-form-item-label>label {
+    font-size: 17;
+    color: #83848d;
+}
+
+
+@media (min-width: 900px) and (max-width: 1024px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+
+}
+
+@media (min-width: 1025px) and (max-width: 1279px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1280px) and (max-width: 1479px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1480px) and (max-width: 1679px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1680px) and (max-width: 1879px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1920px) and (max-width: 2100px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+@media (min-width: 2101px) {
+    .left-section-login {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+/* .ant-input {
+    border-radius: 8px;
+}
+
+:where(.css-dev-only-do-not-override-djtmh8).ant-select-single .ant-select-selector {
+    border-radius: 8px;
+}
+
+.ant-select-dropdown {
+    border-radius: 8px;
+} 
+
+:where(.css-dev-only-do-not-override-djtmh8).ant-input-affix-wrapper {
+    border-radius: 8px;
+
+} */
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #eeeeee;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #d4d4d4;
+}
